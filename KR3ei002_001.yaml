@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ei002/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傅青主女科
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei002.xml
+hash: sha256:da43c9000c73be68dc58f064e863753f2d4330c1edb94653792c56f0c27c33ce
