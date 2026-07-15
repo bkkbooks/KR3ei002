@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei002/v1
 canonical_location: https://kanripo.org/bkk/KR3ei002/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 傅青主女科
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3ei002_001.yaml
     hash: sha256:da43c9000c73be68dc58f064e863753f2d4330c1edb94653792c56f0c27c33ce
 table_of_contents: []
-hash: sha256:07de92bb50e9bf83d91e33ef87f71c1b0cd2b99445da27f7c2642ef76edb4eee
+hash: sha256:48ffceff3dfdc020234ec6fa30ef21cde3e5e5d8759fe58863a9032505181fd6
